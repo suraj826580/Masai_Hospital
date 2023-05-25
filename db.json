@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "email": "abc@gmail.com",
+      "password": "101",
+      "username": "abc",
+      "Doctor_Checkbox_value": true,
+      "id": 1
+    },
+    {
+      "email": "xyz@gmail.com",
+      "password": "111",
+      "username": "xyz",
+      "Doctor_Checkbox_value": false,
+      "id": 2
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "id": "2",
+      "name": "Mark Johnson",
+      "image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    }
+  ]
+}
