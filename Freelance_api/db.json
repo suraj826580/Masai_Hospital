@@ -1,0 +1,33 @@
+{
+  "freelancers": [
+    {
+      "name": "Suraj Yadav",
+      "email": "surajyadav807769@gmail.com",
+      "password": "1234",
+      "profession": "student",
+      "skills": [
+        "css",
+        "javascript"
+      ],
+      "hourlyRate": "200rs",
+      "profileImg": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "Saneej",
+      "email": "surajyadav807769@gmail.com",
+      "password": "101",
+      "profession": "student",
+      "skills": [
+        "JAva",
+        "React",
+        "Redu"
+      ],
+      "hourlyRate": "100rs",
+      "profileImg": "https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "isBooked": false,
+      "id": 2
+    }
+  ]
+}
